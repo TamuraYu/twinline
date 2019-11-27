@@ -1,0 +1,304 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "8b68aee1ba4e5ac95df26c5254e03a4ebab392e1",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3532760,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63631c04d39ec27b6ca77ba94e0f156042665a3b",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 57364288,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2c15c510be04a5e405e5b14d55b467fca6090684",
+   "xfrm_path": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.twinline-8c858734e198862d\\libil2cpp.so-b5dd3c91de243a47",
+   "xfrm_size": 57365046
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d0b7c7d9c2837ec22a10997371c78f3c606cac4d",
+   "xfrm_path": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.twinline-8c858734e198862d\\AudioPluginMSASpatializer.so-92510c17c3888757",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "8119f45a072e1007d679e0a970d2a414e589b860",
+   "pkgpath": "bin/DOTween.dll",
+   "size": 158720,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/DOTween.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "ad46448d315c6bff7388f2441d0563c5aefa6488",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "173453c2754dbf2d2e08c45813deacc381434e1d",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "405e2bae83199e093a75bcfbc263f586e9fa9c9c",
+   "xfrm_path": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.twinline-8c858734e198862d\\UnityMagicLeap.so-92510c17c3888757",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b73d6a250aca2d1338443ab82c9e4de874ddb658",
+   "xfrm_path": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.twinline-8c858734e198862d\\libml_camera_plugin.so-92510c17c3888757",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d3ed4eec7acd9e845f3bd6feeacf6f87edfe4141",
+   "xfrm_path": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.twinline-8c858734e198862d\\libml_mediaplayer_plugin.so-92510c17c3888757",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "e0447b3beab1d947976255051aaeb8ca8f0ebe62",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 942768,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f226dfc0f1097b18c77eb2198b6257be5b02a613",
+   "pkgpath": "Data/boot.config",
+   "size": 123,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "0b3bb6f8ee07bb644bac082cb70719d854992603",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 60672,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "9ee9986f8c4c0abf7b35aaf8e0712806e55e406a",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 85764,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "b794f45d0347c54e58254fde1499d4ac788673a7",
+   "pkgpath": "Data/level0",
+   "size": 22820,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "d77f8f429538b0447fbd80575d586bd3b7f59a66",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "f49620ab0dad1266a678eb400d85b6f38ef4ea16",
+   "pkgpath": "Data/resources.assets",
+   "size": 553392,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6cdc0e4cbe1201c4ca6f1a16e833814ac2bbc3a8",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "a6c87869de71e1628dabc47c48c49926702b6c46",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 298560,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "5a990adf80af58a3b4076892dfb52e1813211a8d",
+   "pkgpath": "bin/Player.elf",
+   "size": 20710840,
+   "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "41d9d8aa3a97fe78e1508967454375a5a39e63e0",
+   "xfrm_path": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.twinline-8c858734e198862d\\Player.elf-a8ce8a42c9783380",
+   "xfrm_size": 20711598
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/3M310 Image-Lab/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3966eb644bcabb656e3db87441f567de6969fdf6",
+   "xfrm_path": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.twinline-8c858734e198862d\\libc++_shared.so-806827a8c5f85ef5",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "fa5a16676d6484ce1cc49eab200856b4098cbdd8",
+   "pkgpath": "manifest.xml",
+   "size": 530,
+   "src": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\twin line\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "5539f27b7250ea66907e5829154872f456b5166d",
+     "developer_id": "c2811274-0743-42c6-88c3-2cff99849a04"
+    }
+   },
+   "xfrm_hash": "9a65f706b9294be21700410cc55a4c0bc458067a",
+   "xfrm_path": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.twinline-8c858734e198862d\\manifest.xml-a8ce8a42c9783380",
+   "xfrm_size": 542
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\3M310 Image-Lab\\Documents\\Research\\Unity\\privatekey\\devlab.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

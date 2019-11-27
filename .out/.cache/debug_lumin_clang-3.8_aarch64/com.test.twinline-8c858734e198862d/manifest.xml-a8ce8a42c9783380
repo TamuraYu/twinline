@@ -1,0 +1,8 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="c2811274-0743-42c6-88c3-2cff99849a04" ml:package="com.test.twinline" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="4" ml:sdk_version="1.0" ml:visible_name="twin line">
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="twin line">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+    <uses-privilege ml:name="LowLatencyLightwear" />
+  </application>
+</manifest>

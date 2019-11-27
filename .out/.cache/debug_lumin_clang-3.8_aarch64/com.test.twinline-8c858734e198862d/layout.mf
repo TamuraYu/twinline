@@ -1,0 +1,50 @@
+[
+ {
+  "dest": "bin/libil2cpp.so",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Native/libil2cpp.so"
+ },
+ {
+  "dest": "bin/AudioPluginMSASpatializer.so",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so"
+ },
+ {
+  "dest": "bin/DOTween.dll",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/DOTween.dll"
+ },
+ {
+  "dest": "bin/LuminMediaPlayer.dll",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+ },
+ {
+  "dest": "bin/LuminUnity.dll",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+ },
+ {
+  "dest": "bin/MSA.Runtime.dll",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+ },
+ {
+  "dest": "bin/UnityMagicLeap.so",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+ },
+ {
+  "dest": "bin/libml_camera_plugin.so",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so"
+ },
+ {
+  "dest": "bin/libml_mediaplayer_plugin.so",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so"
+ },
+ {
+  "dest": "bin/nunit.framework.dll",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+ },
+ {
+  "dest": "bin/Player.elf",
+  "src": "C:/Users/3M310 Image-Lab/Documents/Research/Unity/twin line/Temp/StagingArea/Player.elf"
+ },
+ {
+  "dest": "bin/libc++_shared.so",
+  "src": "C:/Users/3M310 Image-Lab/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so"
+ }
+]
